@@ -1,2 +1,2 @@
 # eexservices
-Service de notification de présences des parents dans l'école.
+Service de notification de présence des parents dans l'école.
